@@ -20,10 +20,10 @@ The app uses some of the third party libraries like Firebase for Authentication 
 ## Screenshots:
 
 <p float="left">
-  <img src="/Webp.net-gifmaker.gif" width="240" />
-  <img src="/Webp.net-gifmaker-2.gif" width="240" /> 
-  <img src="/Webp.net-gifmaker-3.gif" width="240" />
-  <img src="/Webp.net-gifmaker-4.gif" width="240" />
+  <img src="/Webp.net-gifmaker.gif" width="230" />
+  <img src="/Webp.net-gifmaker-2.gif" width="230" /> 
+  <img src="/Webp.net-gifmaker-3.gif" width="230" />
+  <img src="/Webp.net-gifmaker-4.gif" width="230" />
 </p>
 
 
