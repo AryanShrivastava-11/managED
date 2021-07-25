@@ -27,8 +27,8 @@ The app uses some of the third party libraries like Firebase for Authentication 
 </p>
 
 
-## Video Link:
-
+## Video Link for Web Application and iOS App:
+https://drive.google.com/file/d/1I0JKIE6a-HXESa8JMW_3hxzvCxUx7ruB/view?usp=sharing
 
 ## Installation:
 - Download Xcode from AppStore on Mac. 
